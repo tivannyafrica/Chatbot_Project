@@ -50,7 +50,7 @@ v_corpus = tfidf_vector.fit_transform(corpus)
 
 # -------------------------------- STEAMLT DESIGN ---------------------------
 st.markdown("<h1 style = 'color: #39A7FF; text-align: center; font-family:montserrat'>Chat Bot Project</h1>",unsafe_allow_html=True)
-st.markdown("<h3 style = 'margin: -15px; color: #39A7FF; text-align: center; font-family:montserrat'>Chat Bot build by Datapsalm </h3>",unsafe_allow_html=True)
+st.markdown("<h3 style = 'margin: -15px; color: #39A7FF; text-align: center; font-family:montserrat'>Chat Bot build by Tivanny Africa </h3>",unsafe_allow_html=True)
 
 
 st.markdown("<br></br>", unsafe_allow_html=True)
