@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings('ignore')
 # import spacy
 lemmatizer = nltk.stem.WordNetLemmatizer()
-Download required NLTK data
+# Download required NLTK data
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
